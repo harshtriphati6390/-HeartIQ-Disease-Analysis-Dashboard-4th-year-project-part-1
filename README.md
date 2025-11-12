@@ -30,3 +30,12 @@ Age = 58, Cholesterol = 250, Blood Pressure = 145
 Output:
 Risk Level: High
 Recommendation: “Consult a cardiologist; reduce salt intake, exercise regularly.”
+⚙️ Tech Stack
+
+Frontend: HTML, CSS, JavaScript (or React for dynamic charts)
+
+Backend (optional): Python (Flask/Django)
+
+Data Visualization: Chart.js / Plotly / D3.js
+
+Dataset: UCI Heart Disease Dataset (or Kaggle Heart Disease dataset)
